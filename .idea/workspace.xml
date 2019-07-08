@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="489aab68-c81c-4f4c-bc37-ce635249c4d6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/books/general/Cracking the Coding Interview, 6th Edition 189 Programming Questions and Solutions.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/books/general/Soft Skills ( PDFDrive.com ).pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/books/software_development/[PROGRAMMING][Clean Code by Robert C Martin].pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/books.iml" afterPath="$PROJECT_DIR$/.idea/awsome-references.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/android/AIvI-M-RL1.pdf" afterPath="$PROJECT_DIR$/books/android/AIvI-M-RL1.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/android/Android Concurrency (Android Deep Dive).pdf" afterPath="$PROJECT_DIR$/books/android/Android Concurrency (Android Deep Dive).pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/android/Efficient Android Threading [Göransson 2014-06-13].pdf" afterPath="$PROJECT_DIR$/books/android/Efficient Android Threading [Göransson 2014-06-13].pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/android/High Performance Android Apps_ Improve Ratings with Speed, Optimizations, and Testing [Sillars] (draft).pdf" afterPath="$PROJECT_DIR$/books/android/High Performance Android Apps_ Improve Ratings with Speed, Optimizations, and Testing [Sillars] (draft).pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/android/Pro Android Graphics [Jackson 2013-10-15].pdf" afterPath="$PROJECT_DIR$/books/android/Pro Android Graphics [Jackson 2013-10-15].pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/android/[Embedded.Android(2013.3)].Karim.Yaghmour.pdf" afterPath="$PROJECT_DIR$/books/android/[Embedded.Android(2013.3)].Karim.Yaghmour.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/linux/APUE-3rd.pdf" afterPath="$PROJECT_DIR$/books/linux/APUE-3rd.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/linux/ldd3.pdf" afterPath="$PROJECT_DIR$/books/linux/ldd3.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="489aab68-c81c-4f4c-bc37-ce635249c4d6" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +41,17 @@
               <item name="awsome-references" type="b2602c69:ProjectViewProjectNode" />
               <item name="books" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="awsome-references" type="b2602c69:ProjectViewProjectNode" />
+              <item name="books" type="462c0819:PsiDirectoryNode" />
+              <item name="books" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="awsome-references" type="b2602c69:ProjectViewProjectNode" />
+              <item name="books" type="462c0819:PsiDirectoryNode" />
+              <item name="books" type="462c0819:PsiDirectoryNode" />
+              <item name="software_development" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -69,6 +66,7 @@
       <recent name="C:\Users\arikzil\Desktop\projects\books\software_development" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\arikzil\Desktop\projects\books\books\software_development" />
       <recent name="C:\Users\arikzil\Desktop\projects\books\general" />
       <recent name="C:\Users\arikzil\Desktop\projects\books\android" />
       <recent name="C:\Users\arikzil\Desktop\projects\books\linux" />
@@ -189,6 +187,14 @@
       <option name="presentableId" value="Default" />
       <updated>1562575346376</updated>
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1562576530861</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562576530861</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -216,6 +222,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
